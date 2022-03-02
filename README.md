@@ -16,5 +16,5 @@ working on GoodData’s new cloud-native analytics platform — [GoodData Cloud 
 ### Find me around the web:
 
 [<img src="https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Twitter" height="20" />](https://twitter.com/Lahannin)
-[<img src="https://i.stack.imgur.com/gVE0j.png" height="18" />](https://www.linkedin.com/in/laurihanninen/)
-[<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" height="20" />](https://medium.com/@lahannin)
+&nbsp; [<img src="https://i.stack.imgur.com/gVE0j.png" height="18" />](https://www.linkedin.com/in/laurihanninen/)
+&nbsp; [<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" height="20" />](https://medium.com/@lahannin)
