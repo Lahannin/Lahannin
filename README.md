@@ -6,13 +6,16 @@ I am currently working on GoodData’s new cloud-native analytics platform — [
 
 
 ### Check out my latest articles on Medium:
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/0" alt="Recent Article 0"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/1" alt="Recent Article 0"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/2" alt="Recent Article 0"> 
 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/1"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@lahannin/2"> 
+
+      
 
 ### Find me around the web:
-
-[<img src="https://simg.nicepng.com/png/small/281-2819222_twitter-app-logo-png-twitter-icon-png-transparent.png" height="20" />](https://twitter.com/Lahannin)
-&nbsp; [<img src="https://i.stack.imgur.com/gVE0j.png" height="20" />](https://www.linkedin.com/in/laurihanninen/)
-&nbsp; [<img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Medium_Symbol_NoPadding.svg" height="20" />](https://medium.com/@lahannin)
+      
+[<img src="https://cdn-icons-png.flaticon.com/128/25/25347.png" height="25" />](https://twitter.com/Lahannin)
+&nbsp; [<img src="https://cdn-icons-png.flaticon.com/128/61/61109.png" height="25" />](https://www.linkedin.com/in/laurihanninen/)
+&nbsp; [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" height="25" />](https://medium.com/@lahannin)
