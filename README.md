@@ -1,4 +1,4 @@
-### Hello there! 👋 (Obi-Wan Kenobi, 2005)
+### Hello there! 👋 (Obi-Wan Kenobi, 19 BBY)
 
 I am a Product Marketing Manager at GoodData and a featured speaker at Product School with years of experience in different customer-facing and lead roles — from the startup scene to the global digital agency field — before turning to the world of technology, Software as a Service, and analytics.
 
