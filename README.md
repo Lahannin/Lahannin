@@ -7,8 +7,8 @@ I am currently working on GoodData’s new cloud-native analytics platform — [
 
 ### Check out my latest articles on Medium:
 
-<a target="_blank" href="https://lahannin.medium.com/analytics-as-code-managing-analytics-solutions-like-any-other-software-504372ba6a61"><img src="https://i.ibb.co/F8B2BGZ/screenshot-2022-03-04-at-20-40-1.png" height="200"> &nbsp; 
-<a target="_blank" href="https://lahannin.medium.com/danger-zone-inconsistent-metrics-at-work-306f09051a4"><img src="https://i.ibb.co/6mS4Z6b/Screenshot-2022-03-04-at-20-40-19.png" height="200"> &nbsp; 
+<a target="_blank" href="https://lahannin.medium.com/analytics-as-code-managing-analytics-solutions-like-any-other-software-504372ba6a61"><img src="https://i.ibb.co/R6MP9GV/1.png" height="200"> &nbsp; 
+<a target="_blank" href="https://lahannin.medium.com/danger-zone-inconsistent-metrics-at-work-306f09051a4"><img src="https://i.ibb.co/BttwDD3/screenshot-2022-03-04-at-20-40.png" height="200"> &nbsp; 
 <a target="_blank" href="https://medium.com/gooddata-developers/headless-bi-x-data-lakehouse-ce7388ba5159"><img src="https://i.ibb.co/kxkLbF6/2.png" height="200"> 
  
 
