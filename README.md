@@ -1,19 +1,21 @@
-### Hello there! 👋 (Obi-Wan Kenobi, 19 BBY)
+Product Marketing Lead at Trezor. The original Bitcoin hardware wallet.
 
-I am a Product Marketing Manager at GoodData and a featured speaker at Product School with years of experience in different customer-facing and lead roles — from the startup scene to the global digital agency field — before turning to the world of technology, Software as a Service, and analytics.
+My job is making hard things understandable. Not dumbed down. Just clear.
 
-I am currently working on GoodData’s new cloud-native analytics platform — [GoodData Cloud Native](https://hub.docker.com/r/gooddata/gooddata-cn-ce) — an on-prem deployment to AWS, GCP, or Azure as containers (Docker & K8s).
+Secure element security, quantum-ready architecture, MEV protection, self-custody. I take the stuff that makes engineers proud and turn it into narratives that land with people who didn't spend a decade reading whitepapers. TROPIC01, EAL6+, BIP39/SLIP39 aren't buzzwords. They're the brief.
 
+Before Trezor: Senior Technical PMM at GoodData, where I helped establish Analytics-as-Code and Headless BI as actual market categories. Before that, agencies and startups across Europe, including Ford's digital analytics across 20+ markets.
 
-### Check out my latest articles on Medium:
+Founding PMM at Trezor. Built the function from scratch. Now leading a team of 5 across product marketing, copywriting, and technical writing.
 
-<a target="_blank" href="https://lahannin.medium.com/headless-bi-metric-standardization-in-action-afb2ac7e89b6"><img src="https://i.ibb.co/BzYsmbR/screenshot-2022-03-10-at-10-54.png" height="200"> &nbsp; 
-<a target="_blank" href="https://lahannin.medium.com/analytics-as-code-managing-analytics-solutions-like-any-other-software-504372ba6a61"><img src="https://i.ibb.co/R6MP9GV/1.png" height="200"> &nbsp; 
-<a target="_blank" href="https://lahannin.medium.com/danger-zone-inconsistent-metrics-at-work-306f09051a4"><img src="https://i.ibb.co/BttwDD3/screenshot-2022-03-04-at-20-40.png" height="200"> &nbsp; 
-<a target="_blank" href="https://medium.com/gooddata-developers/headless-bi-x-data-lakehouse-ce7388ba5159"><img src="https://i.ibb.co/kxkLbF6/2.png" height="200"> 
- 
-### Find me around the web:
-      
-[<img src="https://cdn-icons-png.flaticon.com/128/25/25347.png" height="25" />](https://twitter.com/Lahannin)
-&nbsp; [<img src="https://cdn-icons-png.flaticon.com/128/61/61109.png" height="25" />](https://www.linkedin.com/in/laurihanninen/)
-&nbsp; [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" height="25" />](https://medium.com/@lahannin)
+Chapter Lead, Product Marketing Alliance Czech Republic. Speaker at KPMG Data Festival and Product School.
+
+I believe open-source code is how we take back control. Not a tagline. A reason to show up.
+
+📍 Prague · 🔗 [laurihanninen.com](https://laurihanninen.com)
+
+---
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://twitter.com/Lahannin)
+&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurihanninen/)
+&nbsp;[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@lahannin)
