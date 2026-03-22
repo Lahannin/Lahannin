@@ -12,4 +12,4 @@ Chapter Lead, Product Marketing Alliance Czech Republic. Speaker at KPMG Data Fe
 
 I believe open-source code is how we take back control.
 
-📍 Prague · 🔗 [laurihanninen.com](https://laurihanninen.com)
+📍 Prague · 🔗 [laurihanninen.com](https://laurihanninen.com/)
