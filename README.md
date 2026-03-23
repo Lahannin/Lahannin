@@ -1,4 +1,4 @@
-**Product Marketing Lead at Trezor. The original Bitcoin hardware wallet.**
+**Product marketer for things that are hard to describe. Product Marketing Lead at Trezor, the original Bitcoin hardware wallet.**
 
 I love products that are difficult to explain. The kind that require a bit of thinking before they click. My job is taking that complexity and turning it into something people actually understand.
 
